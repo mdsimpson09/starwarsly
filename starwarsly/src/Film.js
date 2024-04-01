@@ -1,3 +1,7 @@
+
+/**
+ * This component is responsible for rendering detailed information about a particular film from the Star Wars franchise.
+ */
 import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from "react-redux";
 import {useParams} from "react-router-dom";

@@ -1,3 +1,6 @@
+/**
+ * This file contains action creators related to fetching and loading character/person data from the Star Wars API.
+ */
 import axios from "axios";
 import { LOAD_PERSON } from "./types";
 
