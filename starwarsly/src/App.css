@@ -1,0 +1,8 @@
+body {
+    background-image: url('/public/kate-pierotti-v_YXpW9LBiM-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+  }

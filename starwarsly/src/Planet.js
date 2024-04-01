@@ -41,7 +41,7 @@ function Planet() {
     <div>
       <h1 className="mt-3 mb-3">
         {planet.name}
-        <small className="text-muted float-right">{id}</small>
+        {/* <small className="text-muted float-right">{id}</small> */}
       </h1>
 
       <p><b>Climate: </b>{planet.climate}</p>

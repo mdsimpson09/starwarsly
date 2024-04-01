@@ -43,7 +43,7 @@ function Person() {
     <div>
       <h1 className="my-3">
         {person.name}
-        <small className="text-muted float-right">{person.id}</small>
+        {/* <small className="text-muted float-right">{person.id}</small> */}
       </h1>
 
       <p><b>Gender: </b>{person.gender}</p>
